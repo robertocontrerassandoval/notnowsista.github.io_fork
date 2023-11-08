@@ -1,0 +1,54 @@
+.Algunos-Trabajos img {
+    width: 500px;
+    height: 400px;
+    padding: 1%;
+}
+
+.cada-img {
+    display: flex;
+    display: inline-block;
+    padding: 10px;
+}
+
+.Algunos-Trabajos h2 {
+    text-align: center;
+    padding: 2%;
+    font-size: 3em;
+}
+
+.Algunos-Trabajos {
+    background: rgb(63, 94, 251);
+    background: radial-gradient(circle, rgba(63, 94, 251, 1) 0%, rgba(252, 70, 107, 1) 100%);
+    color: white;
+    height: 650px;
+}
+
+main .imagenes {
+    background-color: 212529;
+    width: 100%;
+    height: 348px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 5%;
+}
+
+.title-trabajos {
+    background: rgb(63, 94, 251);
+    background: radial-gradient(circle, rgba(63, 94, 251, 1) 0%, rgba(252, 70, 107, 1) 100%);
+    margin-bottom: 1%;
+    text-align: center;
+}
+
+.title-trabajos h2 {
+    font-weight: bold;
+    color: white;
+    font-size: 4em;
+    padding: 1%;
+}
+
+#trabajos2 img {
+    height: 550px;
+}
